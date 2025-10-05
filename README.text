@@ -1,0 +1,51 @@
+# Jessica Hebert | Software Developer Portfolio
+
+Welcome to my personal portfolio website! This site showcases my projects, work experience, skills, and education as I pursue a career in software development.
+
+---
+
+## 💻 About This Project
+This repository contains my **online resume and portfolio**, built using HTML and structured for readability and clarity. The website is hosted on GitHub Pages, providing easy access for potential employers, collaborators, and recruiters.
+
+The portfolio highlights:
+- Full-stack development projects
+- Internship and tutoring experience
+- Technical skills, tools, and frameworks
+- Educational background and certifications
+
+---
+
+## 🛠 Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript** (if you add interactive features later)
+- **Git & GitHub Pages** for version control and hosting
+
+---
+
+## 📂 Viewing the Portfolio
+You can view the live website here:  
+[https://hebert87.github.io/resume/](https://hebert87.github.io/resume/)
+
+Or view it locally:
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/hebert87/resume.git
+
+🏆 Key Highlights
+
+Projects: Full-stack applications like StatMando Online Park Reservation Software and a Cloud-Based E-Commerce Capstone Project.
+
+Internship: Software Engineer Intern at Amazon Prime Video, contributing to Java/Kotlin microservices and CI/CD pipelines.
+
+Skills: Java, Python, SQL, Kotlin, JavaScript, PHP, HTML/CSS, Flask, Django, React, AWS, Heroku, CI/CD, Agile/Scrum, REST APIs, Unit/Integration Testing.
+
+Education: Bachelor of Applied Science in Software Development (Green River College), Ada Developers Academy Certificate, and CodePath TIP 102 Program completion.
+
+📬 Contact Me
+
+Email: Hebert.Jessica@student.greenriver.edu
+
+LinkedIn: https://www.linkedin.com/in/jessica-hebert75/
+
+GitHub: https://github.com/hebert87
